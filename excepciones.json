@@ -1,0 +1,6 @@
+{
+  "semana_26": {
+    "descanso_override": { "Miguel": 1, "Arnulfo": 4 },
+    "turno_especial":    { "Arturo": [2] }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "semana_25": {
+    "sabado":  { "apertura": ["Miguel", "Arnulfo"], "cierre": ["Angel",  "Arturo"] },
+    "domingo": { "apertura": ["Angel",  "Arturo"],  "cierre": ["Miguel", "Arnulfo"] }
+  },
+  "semana_26": {
+    "sabado":  { "apertura": ["Angel",  "Arturo"],  "cierre": ["Miguel", "Arnulfo"] },
+    "domingo": { "apertura": ["Miguel", "Arnulfo"], "cierre": ["Angel",  "Arturo"] }
+  }
+}
